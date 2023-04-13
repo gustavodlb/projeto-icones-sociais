@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'poppins', sans-serif;
+    background-color: black;
+}
+
+
+div.animaçao {
+    color: white;
+    transition: .4s linear;
+}
+
+.animaçao {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50vh;
+}
